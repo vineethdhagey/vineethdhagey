@@ -42,20 +42,24 @@
 ## 🛠️ Projects / Featured Work
 
 ### ▶️YouTube Video Recommendation for Domain-Specific Content
+> Built a domain-specific recommendation system for personalized YouTube video suggestions.
 
--  Built a domain-specific recommendation system for personalized YouTube video suggestions.
--  Utilized NLP and sentiment analysis with models like BERT and LSTM to enhance accuracy.
+> Utilized NLP and sentiment analysis with models like BERT and LSTM to enhance accuracy.
 
 ### 📈 Time Series Forecasting For CryptoCurrency Prediction
-- Developed a Bitcoin price prediction model using LSTM and integrating FinBERT-based sentiment analysis in python on real-time Reddit data to forecast hourly price movements
-- Predicts the price of BTC in USD based on historical data and senitment analysis.
+> Developed a Bitcoin price prediction model using LSTM and integrating FinBERT-based sentiment analysis in python on real-time Reddit data to forecast hourly price movements.
+
+> Predicts the price of BTC in USD based on historical data and senitment analysis.
 
 ### 📊 Insurance Feedback Data Dashboard
 Obtained Insights by:
-- Data transformation using Power Query Editor
-- Creating calculated columns and measures using DAX
-- Building interactive dashboards with filters, slicers, cards
-- Visual storytelling with bar charts, line graphs, pie charts, maps, and tables
+> Data transformation using Power Query Editor.
+
+> Creating calculated columns and measures using DAX.
+
+> Building interactive dashboards with filters, slicers, cards.
+
+> Visual storytelling with bar charts, line graphs, pie charts, maps, and tables.
 
 ## 🔗 Connect With Me
 
