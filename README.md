@@ -7,7 +7,7 @@
 - 🎓 Master’s student in Computer Science passionate about Data Science, Machine Learning, and AI.
 - 🐍 Skilled in Python, SQL, Data Analysis, and Visualization.
 - 📊 Exploring Devops, LLMs, and AWS.
-- 🌱 Currently learning Machine Learning, Cloud Services to strengthen data engineering & cloud skills.
+- 🌱 Currently exploring Cloud Services to strengthen data engineering & cloud skills.
 - 💬 Ask me about: data, ML models, or software quality analysis.
 - ⚡ Fun fact: I love blending data, code, and creativity to solve real-world problems.
 
